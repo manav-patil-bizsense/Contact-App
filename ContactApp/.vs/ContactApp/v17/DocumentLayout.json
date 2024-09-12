@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\migrations\\20240905090400_addisfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\migrations\\20240905090400_addisfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\migrations\\20240905081923_addisfavoritetocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\migrations\\20240905081923_addisfavoritetocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\migrations\\20240909091613_withou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\migrations\\20240909091613_withou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\migrations\\20240909091352_withoutfav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\migrations\\20240909091352_withoutfav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|d:\\training\\contactapp - completed - copy\\contactapp\\contactapp\\migrations\\20240909121816_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE60B4B4-B53D-43F3-8C57-D9A789E72FDC}|ContactApp\\ContactApp.csproj|solutionrelative:contactapp\\migrations\\20240909121816_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:178361061:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1492024372:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:55484448:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:934066808:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1337924956:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2037576793:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Controllers\\ContactsController.cs",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactApp\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwE4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:00:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240909121816_page.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Migrations\\20240909121816_page.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Migrations\\20240909121816_page.cs",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Migrations\\20240909121816_page.cs",
+              "RelativeToolTip": "ContactApp\\Migrations\\20240909121816_page.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:18:16.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240909091613_withou.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Migrations\\20240909091613_withou.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Migrations\\20240909091613_withou.cs",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Migrations\\20240909091613_withou.cs",
+              "RelativeToolTip": "ContactApp\\Migrations\\20240909091613_withou.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:16:14.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Models\\Contact.cs",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactApp\\Models\\Contact.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:54:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContactApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:55:47.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240905081923_AddIsFavoriteToContact.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Migrations\\20240905081923_AddIsFavoriteToContact.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Migrations\\20240905081923_AddIsFavoriteToContact.cs",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Migrations\\20240905081923_AddIsFavoriteToContact.cs",
+              "RelativeToolTip": "ContactApp\\Migrations\\20240905081923_AddIsFavoriteToContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:19:24.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Program.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Program.cs",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Program.cs",
+              "RelativeToolTip": "ContactApp\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:00:39.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240909091352_withoutfav.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Migrations\\20240909091352_withoutfav.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Migrations\\20240909091352_withoutfav.cs",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Migrations\\20240909091352_withoutfav.cs",
+              "RelativeToolTip": "ContactApp\\Migrations\\20240909091352_withoutfav.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:13:52.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240905090400_AddIsFavorite.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Migrations\\20240905090400_AddIsFavorite.cs",
+              "RelativeDocumentMoniker": "ContactApp\\Migrations\\20240905090400_AddIsFavorite.cs",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Migrations\\20240905090400_AddIsFavorite.cs",
+              "RelativeToolTip": "ContactApp\\Migrations\\20240905090400_AddIsFavorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:04:00.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactApp\\appsettings.json",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\appsettings.json",
+              "RelativeToolTip": "ContactApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T07:36:49.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ContactApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ContactApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T07:00:19.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ContactApp\\appsettings.Development.json",
+              "ToolTip": "D:\\Training\\ContactApp - CompleteD - Copy\\ContactApp\\ContactApp\\appsettings.Development.json",
+              "RelativeToolTip": "ContactApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T11:31:40.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

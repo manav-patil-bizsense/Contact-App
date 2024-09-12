@@ -1,0 +1,110 @@
+
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  width: 500px;
+  max-width: 90%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1000; 
+}
+
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 999; 
+}
+
+
+.modal-content {
+  display: flex;
+  flex-direction: column;
+  gap: 5px; 
+}
+
+.form-group {
+  margin-bottom: 5px; 
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 2px; 
+  font-weight: bold;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box; 
+}
+
+
+.modal-close-button {
+  border: none;
+  background-color: #dc3545; 
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+
+.modal-close-button:hover {
+  background-color: #c82333;
+}
+
+
+.form-buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.form-button {
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s;
+  margin-left: 10px;
+}
+
+.add-button {
+  background-color: #007bff; 
+}
+
+.add-button:hover {
+  background-color: #0056b3;
+}
+
+.update-button {
+  background-color: #28a745; 
+}
+
+.update-button:hover {
+  background-color: #218838;
+}
+
+.error-message {
+  color: #dc3545; /* Red color for error messages */
+  font-size: 14px;
+  margin-top: 5px;
+  font-size: larger;
+}

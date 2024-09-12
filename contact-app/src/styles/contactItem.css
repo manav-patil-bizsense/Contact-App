@@ -1,0 +1,141 @@
+.contact-item {
+    list-style-type: none;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+  }
+  
+  .contact-photo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .contact-actions {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .edit-button,
+  .delete-button {
+    border: 1px solid black;
+    background-color: #f8f9fa;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    padding: 8px 16px;
+    border-radius: 5px;
+  }
+  
+  .edit-button {
+    color: #007bff;
+  }
+  
+  .edit-button:hover {
+    background-color: #e2e6ea;
+    color: #000000;
+  }
+  
+  .delete-button {
+    color: #dc3545;
+  }
+  
+  .delete-button:hover {
+    background-color: #f5c6cb;
+    color: #000000;
+  }
+#contact-name{
+  color: #000000cc;
+  font-size: 40px;
+  font-weight:bold;
+}
+
+
+.edit-button, .delete-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s;
+}
+
+.edit-button {
+  color: #007bff; 
+}
+
+.delete-button {
+  color: #dc3545; 
+}
+
+.edit-button:hover {
+  background-color: #e9ecef;
+}
+
+.delete-button:hover {
+  background-color: #f8d7da;
+}
+
+@media (max-width: 768px) {
+  .contact-item {
+      font-size: 18px;
+      padding: 8px;
+  }
+
+  .contact-photo {
+      width: 40px;
+      height: 40px;
+  }
+
+  #contact-name {
+      font-size: 30px;
+  }
+
+  .contact-actions {
+      gap: 8px;
+  }
+
+  .edit-button,
+  .delete-button {
+      font-size: 14px;
+      padding: 6px 12px;
+  }
+
+  
+}
+
+@media (max-width: 480px) {
+  .contact-item {
+      font-size: 16px;
+      padding: 6px;
+  }
+
+  .contact-photo {
+      width: 30px;
+      height: 30px;
+  }
+
+  #contact-name {
+      font-size: 24px;
+  }
+
+  .contact-actions {
+      gap: 6px;
+  }
+
+  .edit-button,
+  .delete-button {
+      font-size: 12px;
+      padding: 4px 10px;
+  }
+
+  
+}
